@@ -2,7 +2,7 @@
 
 [JsDoc 정리 Notion](https://economic-brace-cb7.notion.site/JSDOC-a3655405f72a4a029587db6115d50188)
 
-[](https://dahye1013.github.io/crash-jsdoc-custom-template/)
+[현재 Repository JSDoc 보러가기](https://dahye1013.github.io/crash-jsdoc-custom-template/)
 
 # JSDOC란 무엇인가
 
