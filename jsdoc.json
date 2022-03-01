@@ -14,7 +14,6 @@
     "encoding": "utf8",
     "destination": "./docs/",
     "template": "custom-template",
-    "tutorials": "./tutorials",
-    "readme": "./README.md"
+    "tutorials": "./tutorials"
   }
 }
